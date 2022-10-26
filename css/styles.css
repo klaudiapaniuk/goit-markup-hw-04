@@ -522,12 +522,12 @@ h2 {
 }
 
 .mail {
-	padding-right: 30px;
-	padding-left: 10px;
+	margin-right: 30px;
+	margin-left: 10px;
 }
 
 .phone-number {
-	padding-left: 10px;
+	margin-top: 20px;
 }
 
 .pointer {
@@ -598,12 +598,14 @@ h2 {
 	width: 16px;
 	height: 12px;
 	fill: #757575;
+	margin-right: 10px;
 }
 
 .smartphone-icon {
 	width: 12px;
 	height: 16px;
 	fill: #757575;
+	margin-right: 10px;
 }
 
 .mail-icon:hover {
@@ -728,4 +730,8 @@ h2 {
 	flex-direction: row;
 	gap: 70px;
 	justify-content: flex-start;
+}
+
+.link-highlight:hover svg {
+	fill: #2196f3;
 }
