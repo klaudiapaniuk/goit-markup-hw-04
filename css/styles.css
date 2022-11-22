@@ -595,6 +595,7 @@ h2 {
 	height: 12px;
 	fill: #757575;
 	margin-right: 10px;
+	margin-top: 1px;
 }
 
 .smartphone-icon {
@@ -602,6 +603,7 @@ h2 {
 	height: 16px;
 	fill: #757575;
 	margin-right: 10px;
+	margin-bottom: 2px;
 }
 
 .mail-icon:hover {
